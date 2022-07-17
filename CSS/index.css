@@ -1,0 +1,78 @@
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    z-index:1;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: rgb(250, 248, 248);
+  }
+
+
+body{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    background-color: white;
+}
+
+
+.bold {
+    font-weight: 900;
+}
+
+background{
+    background-color: white;
+}
+
+.summary{
+    text-align: center;
+    
+}
+
+.skills{
+    text-align: center;
+}
+
+h1 {
+    color: white;
+  }
+
+  h5 {
+    color: white;
+  }
+
+ img{
+    width: 70%;
+    length: 70%
+ }
+ h4 {
+    color: black;
+  }
+
+  .footer{
+    position: fixed;
+  }
+
+  
