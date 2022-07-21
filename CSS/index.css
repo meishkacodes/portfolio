@@ -27,7 +27,7 @@ ol {
   }
   
   .active {
-    background-color: rgb(250, 248, 248);
+    background-color: white;
   }
 
 
@@ -56,11 +56,11 @@ background{
 }
 
 h1 {
-    color: white;
+    color: black;
   }
 
   h5 {
-    color: white;
+    color: black;
   }
 
  img{
