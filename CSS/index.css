@@ -32,7 +32,7 @@ ol {
 
 
 body{
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 500;
     background-color: white;
 }
@@ -56,11 +56,11 @@ background{
 }
 
 h1 {
-    color: black;
+    color: #6d6daa;
   }
 
   h5 {
-    color: #6d6daa;
+    color: black;
   }
 
  img{
