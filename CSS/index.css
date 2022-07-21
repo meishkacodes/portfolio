@@ -3,7 +3,7 @@ ol {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #c77ccb;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
@@ -23,7 +23,7 @@ ol {
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: #fffff;
   }
   
   .active {
@@ -33,7 +33,7 @@ ol {
 
 body{
     font-family: 'Work Sans', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     background-color: white;
 }
 
