@@ -66,13 +66,14 @@ h1 {
  img{
     width: 70%;
     length: 70%
+    height: 70%
  }
  h4 {
     color: black;
   }
 
   .footer{
-    position: fixed;
+    position: center;
   }
 
   
