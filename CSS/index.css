@@ -60,11 +60,11 @@ h1 {
 
   h5 {
     color: black;
-  }
+    }
 
   h4 {
     color: #6d6daa;
-  }
+   }
 
  img{
     width: 70%;
@@ -74,15 +74,12 @@ h1 {
 
   .footer{
     position: center;
+    background-color: #6d6daa
   }
 
   #carouselSlide .carousel-item img {
       object-fit: cover;
       object-position: center;
-      height: 95vh;
+      height: 80vh;
       
-   }
-
-.footer {
-    background-color: #6d6daa
    }
